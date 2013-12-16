@@ -21,5 +21,8 @@ public class HamletMain {
 			
 		}
 		else if(firstChoice == 2)
+		{
+			
+		}
 	}
 }
